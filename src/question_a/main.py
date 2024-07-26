@@ -1,10 +1,9 @@
 #add import 
 
 def main():
-    # Initialize an empty list to store numbers
+    
     numbers = []
 
-    # Get 5 numbers from the user
     for i in range(5):
         num = float(input(f"Enter number {i+1}: "))
         numbers.append(num)

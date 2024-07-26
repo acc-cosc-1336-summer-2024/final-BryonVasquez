@@ -20,5 +20,6 @@ def main():
     print(f"Total of the numbers: {total}")
     print(f"Average of the numbers: {average}")
 
-if __name__ == "__main__":
-    main()
+main()1
+
+    

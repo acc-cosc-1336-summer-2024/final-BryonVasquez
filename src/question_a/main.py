@@ -20,6 +20,6 @@ def main():
     print(f"Total of the numbers: {total}")
     print(f"Average of the numbers: {average}")
 
-main()1
+main()
 
     
